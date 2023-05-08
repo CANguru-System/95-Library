@@ -1,2 +1,2 @@
 # 95-Library
- Library for CAN communication between CANguru-Bridge and Marklin Gleisbox
+ Library for the CAN communication between CANguru-Bridge and Maerklin Gleisbox
